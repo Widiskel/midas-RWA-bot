@@ -71,7 +71,7 @@ this game is still early, it only have tap, daily streak, and complete missions.
 5. Run 
    ```
    cp config/config_tmp.js config/config.js && cp config/proxy_list_tmp config/proxy_list.js
-   ```.
+   ```
 6. (If You Use Telegram Sessions) To configure the app, run 
    ```
    nano config/config.js

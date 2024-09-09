@@ -27,7 +27,7 @@ New Airdrops: MIDAS
 📌 Raised $8.7M
 📌 First RWA TAP TAP Game
 
-this game is still early, it only have tap, and complete missions. Daily will be added later
+this game is still early, it only have tap, daily streak, and complete missions. Daily will be added later
 
 ## Prerequisite
 
@@ -40,6 +40,7 @@ this game is still early, it only have tap, and complete missions. Daily will be
 
 - Multi Account With Proxy Support
 - Support Telegram Sessions and Telegram Query (Query May Expired)
+- Auto Claim Daily Streak
 - Auto TAP (if have ticket)
 - Auto Complete Missions
 

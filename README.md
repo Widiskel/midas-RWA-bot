@@ -8,6 +8,9 @@
   - [BOT FEATURE](#bot-feature)
   - [Setup \& Configure BOT](#setup--configure-bot)
     - [Linux](#linux)
+    - [Windows](#windows)
+    - [Run Mode](#run-mode)
+  - [Update Bot](#update-bot)
   - [Setup Accounts](#setup-accounts)
   - [Session Troubleshoot](#session-troubleshoot)
   - [Query Troubleshoot](#query-troubleshoot)
@@ -114,6 +117,21 @@ this game is still early, it only have tap, daily streak, and complete missions.
     ```
     npm run start
     ```
+
+### Run Mode
+this bot have 2 run mode:
+1. One By One run -> run all accounts one by one
+2. Mass Run -> run all accounts at once (DEFAULT)
+
+to modify run mode go to config
+```
+nano config/config.js
+```
+add this to config
+```js
+static MODE = 2; //change this to desired mode
+```
+or modify the mode if it already exists
 
 ## Update Bot
 
